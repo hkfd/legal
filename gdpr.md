@@ -2,6 +2,10 @@
 title: GDPR Data Privacy Notice
 ---
 
+<p align="center">
+  <img src="./logo.svg" width="100">
+</p>
+
 # GDPR: DATA PRIVACY NOTICE FOR CLIENTS AND SUPPLIERS
 
 We, namely, Heckford Printers Limited are committed to protecting and respecting your privacy and this means protecting your personal data.

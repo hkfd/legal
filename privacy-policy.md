@@ -2,7 +2,11 @@
 title: Privacy Policy
 ---
 
-# Heckford Advertising Ltd Privacy Policy
+<p align="center">
+  <img src="./logo.svg" width="100">
+</p>
+
+# HECKFORD ADVERTISING LTD PRIVACY POLICY
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from hkfd.co.uk (the "Site").
 

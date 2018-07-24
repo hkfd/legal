@@ -2,7 +2,11 @@
 title: Terms & Conditions
 ---
 
-# HECKFORD PRINTERS LIMITED TERMS & CONDITIONS
+<p align="center">
+  <img src="./logo.svg" width="100">
+</p>
+
+# TERMS AND CONDITIONS
 
 ## 1. DEFINITIONS
 
